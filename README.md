@@ -11,21 +11,21 @@
 ---
 ---
 
-## 📑 Tabla de Contenidos
-- [Clase 1: Introducción](#🧑‍🏫-clase-1-introducción)
-- [Clase 2: Fundamentos](#🧑‍💻-clase-2-fundamentos)
-- [Clase 3: Funciones y Estructuras de Datos](#🛠️-clase-3-funciones-y-estructuras-de-datos)
-- [Clase 4: Conjuntos y Diccionarios](#📂-clase-4-conjuntos-y-diccionarios)
-- [Clase 5: Manejo de Archivos y Excepciones](#📄-clase-5-manejo-de-archivos-y-excepciones)
-- [Clase 6: Programación Orientada a Objetos](#🏗️-clase-6-programación-orientada-a-objetos-poo)
-- [Clase 7: Módulos, Bibliotecas y Proyecto Integrador](#💻-clase-7-módulos-bibliotecas-y-proyecto-integrador)
+## Tabla de Contenidos
+- [Clase 1: Introducción](#clase-1-introducción)
+- [Clase 2: Fundamentos](#clase-2-fundamentos)
+- [Clase 3: Funciones y Estructuras de Datos](#clase-3-funciones-y-estructuras-de-datos)
+- [Clase 4: Conjuntos y Diccionarios](#clase-4-conjuntos-y-diccionarios)
+- [Clase 5: Manejo de Archivos y Excepciones](#clase-5-manejo-de-archivos-y-excepciones)
+- [Clase 6: Programación Orientada a Objetos](#clase-6-programación-orientada-a-objetos-poo)
+- [Clase 7: Módulos, Bibliotecas y Proyecto Integrador](#clase-7-módulos-bibliotecas-y-proyecto-integrador)
 
 
 ---
 
 ## 📚 **Contenido del Curso**
 
-### 🧑‍🏫 **Clase 1: Introducción**
+### **Clase 1: Introducción**
 - Presentación personal y objetivos del curso 👨‍🏫
 - Metodología y dinámica del curso 📅
 - **Introducción a Python y su entorno (Spyder)** 🛠️
@@ -35,11 +35,11 @@
   - Comentarios y buenas prácticas en Python ✍️
 
 [📂 Material de la Clase 1: Introducción](./Clase1-Introduccion)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
 
-### 🧑‍💻 **Clase 2: Fundamentos**
+### **Clase 2: Fundamentos**
 - **Fundamentos de programación en Python** 🧠
   - Tipos de datos: Números, cadenas, booleanos 🔢🔤
   - Variables y operadores ➕➖
@@ -48,11 +48,11 @@
     - Bucles (for, while) 🔁
 
 [📂 Material de la Clase 2: Fundamentos](./Clase2-Fundamentos)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
 
-### 🛠️ **Clase 3: Funciones y Estructuras de Datos**
+### **Clase 3: Funciones y Estructuras de Datos**
 - **Funciones en Python** 🔧
   - Definición y uso de funciones
   - Parámetros y retorno de valores
@@ -62,10 +62,10 @@
   - Operaciones comunes con listas y tuplas
 
 [📂 Material de la Clase 3: Funciones y Estructuras de Datos](./Clase3-Funciones)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
-### 📂 **Clase 4: Conjuntos y Diccionarios**
+### **Clase 4: Conjuntos y Diccionarios**
 - **Estructuras de datos: Conjuntos y diccionarios** 📚
   - Creación y uso de conjuntos y diccionarios
   - Métodos comunes y aplicaciones
@@ -73,10 +73,10 @@
   - Explicación y ejemplos prácticos 💡
 
 [📂 Material de la Clase 4: Conjuntos y Diccionarios](./Clase4-ConjuntosDiccionarios)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
-### 📄 **Clase 5: Manejo de Archivos y Excepciones**
+### **Clase 5: Manejo de Archivos y Excepciones**
 - **Manejo de archivos en Python** 📄
   - Leer y escribir archivos de texto 📑
   - Manejo de archivos CSV 📊
@@ -85,20 +85,20 @@
   - Gestión de errores con `try`, `except`, `finally`
 
 [📂 Material de la Clase 5: Manejo de Archivos y Excepciones](./Clase5-ManejoArchivos)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
-### 🏗️ **Clase 6: Programación Orientada a Objetos (POO)**
+### **Clase 6: Programación Orientada a Objetos (POO)**
 - **POO en Python** 🧱
   - Creación de clases y objetos 🏗️
   - Métodos y atributos
   - Herencia, polimorfismo y encapsulamiento 🛡️
 
 [📂 Material de la Clase 6: Programación Orientada a Objetos](./Clase6-POO)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
-### 💻 **Clase 7: Módulos, Bibliotecas y Proyecto Integrador**
+### **Clase 7: Módulos, Bibliotecas y Proyecto Integrador**
 - **Uso de módulos y bibliotecas en Python** 📦
   - Importación de módulos estándar (`math`, `random`, etc.)
   - Instalación y uso de paquetes con `pip`
@@ -106,7 +106,7 @@
   - Desarrollo de un proyecto final aplicando los conocimientos adquiridos
 
 [📂 Material de la Clase 7: Módulos, Bibliotecas y Proyecto Integrador](./Clase7-ModulosProyecto)
-[🔝 Volver a la tabla de contenidos](#📑-tabla-de-contenidos)
+[🔝 Volver a la tabla de contenidos](#tabla-de-contenidos)
 
 ---
 

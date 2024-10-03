@@ -1,6 +1,17 @@
 # 🐍 **Capacitación de Python - Básico**
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisFer2607&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge&logo=github) ![GitHub All Releases](https://img.shields.io/github/downloads/LuisFer2607/capacitaciones-python-basico/total?style=for-the-badge&logo=download) ![Last Commit](https://img.shields.io/github/last-commit/LuisFer2607/capacitaciones-python-basico?style=for-the-badge&logo=git) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luisfernandoflores?country.x=US&locale.x=es_XC) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luisfer2607/goal?g=0) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luisfer2607)
+![Profile Views](https://komarev.com/ghpvc/?username=LuisFer2607&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge&logo=github) 
+![Last Commit](https://img.shields.io/github/last-commit/LuisFer2607/capacitaciones-python-basico?style=for-the-badge&logo=git)
+![License](https://img.shields.io/github/license/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luisfernandoflores?country.x=US&locale.x=es_XC)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luisfer2607/goal?g=0)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luisfer2607)
+
+![GitHub issues](https://img.shields.io/github/issues/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/LuisFer2607/capacitaciones-python-basico?style=for-the-badge)
 
 ¡Bienvenido al curso de **Python**! En este repositorio encontrarás todo el material necesario para aprender Python, desde los fundamentos hasta el desarrollo de un proyecto final. Además, se incluyen instrucciones detalladas sobre cómo instalar las herramientas necesarias para seguir el curso.
 
@@ -166,7 +177,7 @@ Tu apoyo me ayuda a continuar mejorando el proyecto y agregar nuevas caracterís
 
 ## 📜 Licencia
 
-Este proyecto se distribuye bajo la [MIT License](https://opensource.org/licenses/MIT).. Esto significa que puedes:
+Este proyecto se distribuye bajo la [MIT License](https://opensource.org/licenses/MIT). Esto significa que puedes:
 
 * **Usar** el código para cualquier propósito, incluso comercial.
 * **Modificar** el código y distribuir tus propias versiones.
